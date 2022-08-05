@@ -1,0 +1,20 @@
+body{
+    background-color: #EAD7D7;
+}
+
+#container{
+    position: fixed;
+    top: 150px;
+    left: 500px;
+}
+#send{
+    position: relative;
+    left: 60px;
+    background-color: yellow;
+    color: black;
+    border-radius: 10px;
+}
+#send:hover{
+    box-shadow: 1px 1px 5px blue;
+    width: min-content;
+}
